@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">30 Days App</string>
+    <string name="day_1">Day 1</string>
+    <string name="title_1">Spend 15 minutes outdoors</string>
+    <string name="description_1">Put some time on your calendar to take a walk outside or maybe even take a meeting while you\'re strolling through your neighborhood.</string>
+
+    <string name="day_2">Day 2</string>
+    <string name="title_2">Drink 8 glasses of water</string>
+    <string name="description_2">Stay hydrated! Keep a water bottle nearby and track your intake throughout the day to boost your energy.</string>
+
+    <string name="day_3">Day 3</string>
+    <string name="title_3">Read for 20 minutes</string>
+    <string name="description_3">Pick up that book you\'ve been meaning to finish. Reading helps reduce stress and improves focus.</string>
+
+    <string name="day_4">Day 4</string>
+    <string name="title_4">Meditate for 10 minutes</string>
+    <string name="description_4">Find a quiet spot, close your eyes, and focus on your breathing. Let go of any racing thoughts.</string>
+
+    <string name="day_5">Day 5</string>
+    <string name="title_5">Do a quick stretch</string>
+    <string name="description_5">Take a break from your desk and do some basic stretching to relieve muscle tension and improve circulation.</string>
+
+    <string name="day_6">Day 6</string>
+    <string name="title_6">Call a friend or family member</string>
+    <string name="description_6">Social connection is vital for mental health. Spend a few minutes catching up with someone you care about.</string>
+
+    <string name="day_7">Day 7</string>
+    <string name="title_7">Cook a healthy meal</string>
+    <string name="description_7">Skip the takeout today. Try preparing a nutritious meal using fresh, whole ingredients.</string>
+
+    <string name="day_8">Day 8</string>
+    <string name="title_8">Write in a journal</string>
+    <string name="description_8">Jot down your thoughts, feelings, or things you are grateful for today. It\'s a great way to clear your mind.</string>
+
+    <string name="day_9">Day 9</string>
+    <string name="title_9">Go to bed 30 minutes earlier</string>
+    <string name="description_9">Prioritize your sleep tonight. Create a relaxing bedtime routine and get some extra rest.</string>
+
+    <string name="day_10">Day 10</string>
+    <string name="title_10">Declutter your workspace</string>
+    <string name="description_10">A tidy space leads to a tidy mind. Spend a few minutes organizing your desk or room.</string>
+
+    <string name="day_11">Day 11</string>
+    <string name="title_11">Listen to your favorite playlist</string>
+    <string name="description_11">Music can instantly boost your mood. Put on your favorite upbeat songs and enjoy the rhythm.</string>
+
+    <string name="day_12">Day 12</string>
+    <string name="title_12">Try a 1-hour digital detox</string>
+    <string name="description_12">Turn off your phone, TV, and computer for one full hour. Engage in an offline activity instead.</string>
+
+    <string name="day_13">Day 13</string>
+    <string name="title_13">Eat an extra serving of vegetables</string>
+    <string name="description_13">Add some color to your plate today with an extra portion of greens or a side salad.</string>
+
+    <string name="day_14">Day 14</string>
+    <string name="title_14">Take a 30-minute walk</string>
+    <string name="description_14">Get your heart rate up with a brisk walk. It\'s a simple and effective way to exercise.</string>
+
+    <string name="day_15">Day 15</string>
+    <string name="title_15">Practice deep breathing</string>
+    <string name="description_15">Try the 4-7-8 technique: inhale for 4 seconds, hold for 7, and exhale for 8 to calm your nervous system.</string>
+
+    <string name="day_16">Day 16</string>
+    <string name="title_16">Express gratitude</string>
+    <string name="description_16">Write down three things you are thankful for today. Shifting your focus to the positive can change your perspective.</string>
+
+    <string name="day_17">Day 17</string>
+    <string name="title_17">Watch the sunset or sunrise</string>
+    <string name="description_17">Take a moment to appreciate the beauty of nature. It\'s a peaceful way to start or end your day.</string>
+
+    <string name="day_18">Day 18</string>
+    <string name="title_18">Take a relaxing bath or shower</string>
+    <string name="description_18">Use warm water to soothe your muscles and wash away the stress of the day.</string>
+
+    <string name="day_19">Day 19</string>
+    <string name="title_19">Do a brain puzzle</string>
+    <string name="description_19">Challenge your mind with a crossword, Sudoku, or a logic game to keep your brain sharp.</string>
+
+    <string name="day_20">Day 20</string>
+    <string name="title_20">Give someone a compliment</string>
+    <string name="description_20">Make someone else\'s day better. A genuine compliment can bring joy to both of you.</string>
+
+    <string name="day_21">Day 21</string>
+    <string name="title_21">Plan your upcoming week</string>
+    <string name="description_21">Take 15 minutes to write down your goals and schedule for the next few days to stay organized.</string>
+
+    <string name="day_22">Day 22</string>
+    <string name="title_22">Have a "no complaints" day</string>
+    <string name="description_22">Challenge yourself to go the entire day without complaining. Focus only on solutions and positivity.</string>
+
+    <string name="day_23">Day 23</string>
+    <string name="title_23">Learn something new</string>
+    <string name="description_23">Watch an educational video, read an article, or learn a new word to expand your knowledge.</string>
+
+    <string name="day_24">Day 24</string>
+    <string name="title_24">Bake or create a treat</string>
+    <string name="description_24">Spend some time in the kitchen making a simple, healthy snack or dessert just for fun.</string>
+
+    <string name="day_25">Day 25</string>
+    <string name="title_25">Do a 15-minute yoga flow</string>
+    <string name="description_25">Follow a short yoga video online to improve flexibility and center your mind.</string>
+
+    <string name="day_26">Day 26</string>
+    <string name="title_26">Care for a plant</string>
+    <string name="description_26">Water your houseplants or plant a new seed. Tending to nature is incredibly grounding.</string>
+
+    <string name="day_27">Day 27</string>
+    <string name="title_27">Donate items you don\'t need</string>
+    <string name="description_27">Find a few items of clothing or books you no longer use and set them aside to donate.</string>
+
+    <string name="day_28">Day 28</string>
+    <string name="title_28">Spend time stargazing</string>
+    <string name="description_28">Step outside tonight and look up at the stars. It\'s a great way to put things into perspective.</string>
+
+    <string name="day_29">Day 29</string>
+    <string name="title_29">Try a new healthy recipe</string>
+    <string name="description_29">Step out of your culinary comfort zone and cook something nutritious you\'ve never made before.</string>
+
+    <string name="day_30">Day 30</string>
+    <string name="title_30">Reflect on your 30-day journey</string>
+    <string name="description_30">Look back at the past month. Celebrate the healthy habits you\'ve built and plan how to maintain them.</string>
+
+</resources>
